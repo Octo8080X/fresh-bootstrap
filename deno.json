@@ -1,0 +1,5 @@
+{
+  "name": "@octo/fresh-bootstrap",
+  "version": "0.0.1-bata",
+  "exports": "./mod.ts"
+}
