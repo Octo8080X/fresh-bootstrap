@@ -1,4 +1,4 @@
-import { FreshContext, Plugin } from "$fresh/server.ts";
+import { FreshContext, Plugin } from "../../deps.ts";
 import { BootstrapOptions } from "../type.ts";
 
 export function bootstrapPlugin(options?: BootstrapOptions): Plugin {
